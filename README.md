@@ -1,3 +1,21 @@
+# NLW eSports - Trilha Explorer
+
+![preview](./)
+
+> Trilha Explorer
+
+Projeto construído do evento Next Level Week da Rocketseat
+
+## :hammer_and_wrench: Tecnologias
+
+- HTML
+- CSS
+- GIT E Github
+
+## :calling: Contato
+
+vitorsmfff@yahoo.com
+
 ## :grinning: hi
 
 **projeto desenvolvido no evento NLW-Esports**
